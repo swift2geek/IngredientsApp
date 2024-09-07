@@ -1,0 +1,6 @@
+framework module IngredientsFramework {
+  umbrella header "IngredientsFramework.h"
+
+  export *
+  module * { export * }
+}
